@@ -1,7 +1,7 @@
 # Scrum Manifesto
 
 Scrum is an Agile framework an consistent with the Agile Manifesto.
-Fail Fast is the mantra !
+Fail Fast is the mantra !!
 
 # Scrum Team/Roles
 
