@@ -7,6 +7,7 @@ Uncovering better ways to developing software by doing it and helping others do 
 4. **Responding to change** over following a plan.
 
 Items in bold are valued slightly more than the ones they are compared to.
+**Done is better than Perfect**
 
 
 # Roles
